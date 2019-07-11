@@ -1,4 +1,4 @@
 ## ctg-configuration
 
-1.配置文件
+集中配置文件管理仓库
 
