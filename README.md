@@ -1,4 +1,4 @@
 ## ctg-configuration
 
-配置文件
+1.配置文件
 
